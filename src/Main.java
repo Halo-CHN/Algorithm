@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        new TowersOfHanoi().moveTower(6);
+        new TowersOfHanoi().moveTower(3);
         //new RAMTest();
 
         //Date date = Date.valueOf("1946-01-01");
